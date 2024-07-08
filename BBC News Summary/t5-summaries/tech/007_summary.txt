@@ -1,0 +1,1 @@
+Microsoft has warned PC users to update their systems with the latest security fixes for flaws in windows programs. it flagged up eight "critical" security holes which could leave PCs open to attack if left unpatched. many of the flaws could be used by virus writers to take over computers remotely, install programs, change, and delete or see data.

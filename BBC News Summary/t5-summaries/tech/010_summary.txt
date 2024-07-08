@@ -1,0 +1,1 @@
+Google's toolbar contains a feature which directs people to commercial websites. the AutoLink feature works by creating a link to a website based on information contained in a webpage. some users are concerned that Google's dominant position in the search engine market place could mean it would be giving a competitive edge to firms like amazon.
